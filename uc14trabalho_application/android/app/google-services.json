@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545257185688",
+    "project_id": "uc14db",
+    "storage_bucket": "uc14db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545257185688:android:996854ad3c6bb192abcbed",
+        "android_client_info": {
+          "package_name": "br.com.usuario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZU2K5eG6vdg9SXH6fKL8ECUZbr7urzwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
